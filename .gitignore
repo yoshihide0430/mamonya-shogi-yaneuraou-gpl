@@ -1,0 +1,7 @@
+out/
+*.so
+nn.bin
+*.jks
+*.keystore
+key.properties
+local.properties
