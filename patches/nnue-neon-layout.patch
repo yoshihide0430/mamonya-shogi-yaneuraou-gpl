@@ -1,0 +1,41 @@
+--- a/source/eval/nnue/layers/affine_transform_sparse_input.h
++++ b/source/eval/nnue/layers/affine_transform_sparse_input.h
+@@ -16,7 +16,7 @@
+ namespace YaneuraOu {
+ namespace Eval::NNUE::Layers {
+ 
+-#if defined(USE_SSSE3) || USE_NEON >= 8
++#if defined(USE_SSSE3) || defined(USE_NEON_DOTPROD)
+ 
+ alignas(kCacheLineSize) static inline const
+   std::array<std::array<std::uint16_t, 8>, 256> lookup_indices = []() {
+@@ -136,7 +136,7 @@
+ 	// 入力層からこの層までで使用する順伝播用バッファのサイズ
+ 	static constexpr std::size_t kBufferSize = PreviousLayer::kBufferSize + kSelfBufferSize;
+ 
+-#if defined(USE_SSSE3) || USE_NEON >= 8
++#if defined(USE_SSSE3) || defined(USE_NEON_DOTPROD)
+     static constexpr IndexType kChunkSize = 4;
+ #else
+     static constexpr IndexType kChunkSize = 1;
+@@ -173,7 +173,10 @@
+     }
+ 
+     static constexpr IndexType GetWeightIndex(IndexType i) {
+-#if defined(USE_SSSE3) || USE_NEON >= 8
++// Keep the parameter layout coupled to the kernel selected by Propagate().
++// Plain USE_NEON=8 uses the dense row-major fallback below. Only NEON_DOTPROD
++// consumes the scrambled block layout; CPU architecture alone is insufficient.
++#if defined(USE_SSSE3) || defined(USE_NEON_DOTPROD)
+         return kOutputDimensions % 4 == 0 ? GetWeightIndexScrambled(i) : i;
+ #else
+         return i;
+@@ -224,7 +227,7 @@
+ 		}
+ #endif
+ 
+-#if defined(USE_SSSE3) || USE_NEON >= 8
++#if defined(USE_SSSE3) || defined(USE_NEON_DOTPROD)
+ 
+ #if defined(USE_AVX512)
+         if constexpr (kOutputDimensions % 16 == 0)

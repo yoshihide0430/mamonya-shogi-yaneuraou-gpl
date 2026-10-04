@@ -1,4 +1,4 @@
-﻿// Definition of layer AffineTransform of NNUE evaluation function
+// Definition of layer AffineTransform of NNUE evaluation function
 // Definition of the AffineTransform layer with block-sparse input in the NNUE evaluation function
 // NNUE評価関数におけるブロック疎な入力を持つAffineTransform層の定義
 
@@ -16,7 +16,7 @@
 namespace YaneuraOu {
 namespace Eval::NNUE::Layers {
 
-#if defined(USE_SSSE3) || USE_NEON >= 8
+#if defined(USE_SSSE3) || defined(USE_NEON_DOTPROD)
 
 alignas(kCacheLineSize) static inline const
   std::array<std::array<std::uint16_t, 8>, 256> lookup_indices = []() {
@@ -136,7 +136,7 @@ class AffineTransformSparseInput {
 	// 入力層からこの層までで使用する順伝播用バッファのサイズ
 	static constexpr std::size_t kBufferSize = PreviousLayer::kBufferSize + kSelfBufferSize;
 
-#if defined(USE_SSSE3) || USE_NEON >= 8
+#if defined(USE_SSSE3) || defined(USE_NEON_DOTPROD)
     static constexpr IndexType kChunkSize = 4;
 #else
     static constexpr IndexType kChunkSize = 1;
@@ -173,7 +173,10 @@ class AffineTransformSparseInput {
     }
 
     static constexpr IndexType GetWeightIndex(IndexType i) {
-#if defined(USE_SSSE3) || USE_NEON >= 8
+// Keep the parameter layout coupled to the kernel selected by Propagate().
+// Plain USE_NEON=8 uses the dense row-major fallback below. Only NEON_DOTPROD
+// consumes the scrambled block layout; CPU architecture alone is insufficient.
+#if defined(USE_SSSE3) || defined(USE_NEON_DOTPROD)
         return kOutputDimensions % 4 == 0 ? GetWeightIndexScrambled(i) : i;
 #else
         return i;
@@ -224,7 +227,7 @@ class AffineTransformSparseInput {
 		}
 #endif
 
-#if defined(USE_SSSE3) || USE_NEON >= 8
+#if defined(USE_SSSE3) || defined(USE_NEON_DOTPROD)
 
 #if defined(USE_AVX512)
         if constexpr (kOutputDimensions % 16 == 0)
@@ -408,3 +411,4 @@ class AffineTransformSparseInput {
 #endif  // defined(EVAL_NNUE)
 
 #endif  // ifndef NNUE_LAYERS_AFFINE_TRANSFORM_SPARSE_INPUT_H_INCLUDED
+

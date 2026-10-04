@@ -1,0 +1,10 @@
+YaneuraOu Android validated production build
+============================================
+SHA-256: 28647dbf16571809dc4713950bd121b87c28b33436516ee2976a14f13d5dc6e7
+Size: 1162064 bytes
+Source commit: c1b80eaa09fe13d5f12b1599d1ae4d53c224de30
+Target: ARMv8-A generic NEON (no DOTPROD requirement)
+NNUE fix: plain NEON keeps row-major sparse-affine weights; scrambled layout is restricted to SSSE3/NEON_DOTPROD kernels
+HASH_KEY_BITS: 128
+TT_CLUSTER_SIZE: 4
+Validated on Pixel 9a by Astra audit on 2026-09-27.

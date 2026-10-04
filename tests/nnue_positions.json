@@ -1,0 +1,1144 @@
+[
+  {
+    "id": "game-ply-0",
+    "ply": 0,
+    "sfen": "lnsgkgsnl/1r5b1/ppppppppp/9/9/9/PPPPPPPPP/1B5R1/LNSGKGSNL b - 1",
+    "command": "position startpos",
+    "categories": [
+      "initial",
+      "hands"
+    ]
+  },
+  {
+    "id": "game-ply-1",
+    "ply": 1,
+    "sfen": "lnsgkgsnl/1r5b1/ppppppppp/9/9/7P1/PPPPPPP1P/1B5R1/LNSGKGSNL w - 2",
+    "command": "position startpos moves 2g2f",
+    "categories": [
+      "opening",
+      "hands"
+    ]
+  },
+  {
+    "id": "game-ply-2",
+    "ply": 2,
+    "sfen": "lnsgk1snl/1r4gb1/ppppppppp/9/9/7P1/PPPPPPP1P/1B5R1/LNSGKGSNL b - 3",
+    "command": "position startpos moves 2g2f 4a3b",
+    "categories": [
+      "opening",
+      "hands"
+    ]
+  },
+  {
+    "id": "game-ply-3",
+    "ply": 3,
+    "sfen": "lnsgk1snl/1r4gb1/ppppppppp/9/9/2P4P1/PP1PPPP1P/1B5R1/LNSGKGSNL w - 4",
+    "command": "position startpos moves 2g2f 4a3b 7g7f",
+    "categories": [
+      "opening",
+      "hands"
+    ]
+  },
+  {
+    "id": "game-ply-4",
+    "ply": 4,
+    "sfen": "lnsgk1snl/1r4gb1/p1ppppppp/1p7/9/2P4P1/PP1PPPP1P/1B5R1/LNSGKGSNL b - 5",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d",
+    "categories": [
+      "opening",
+      "hands"
+    ]
+  },
+  {
+    "id": "game-ply-5",
+    "ply": 5,
+    "sfen": "lnsgk1snl/1r4gb1/p1ppppppp/1p7/7P1/2P6/PP1PPPP1P/1B5R1/LNSGKGSNL w - 6",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e",
+    "categories": [
+      "opening",
+      "hands"
+    ]
+  },
+  {
+    "id": "game-ply-6",
+    "ply": 6,
+    "sfen": "lnsgk1snl/1r4gb1/p1pppp1pp/1p4p2/7P1/2P6/PP1PPPP1P/1B5R1/LNSGKGSNL b - 7",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d",
+    "categories": [
+      "opening",
+      "hands"
+    ]
+  },
+  {
+    "id": "game-ply-7",
+    "ply": 7,
+    "sfen": "lnsgk1snl/1r4gb1/p1pppp1pp/1p4p2/7P1/2P6/PP1PPPP1P/1BG4R1/LNS1KGSNL w - 8",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h",
+    "categories": [
+      "opening",
+      "hands"
+    ]
+  },
+  {
+    "id": "game-ply-8",
+    "ply": 8,
+    "sfen": "lnsgk1snl/1r4gb1/p1pppp1pp/6p2/1p5P1/2P6/PP1PPPP1P/1BG4R1/LNS1KGSNL b - 9",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e",
+    "categories": [
+      "opening",
+      "hands"
+    ]
+  },
+  {
+    "id": "game-ply-9",
+    "ply": 9,
+    "sfen": "lnsgk1snl/1r4gb1/p1pppp1pp/6pP1/1p7/2P6/PP1PPPP1P/1BG4R1/LNS1KGSNL w - 10",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d",
+    "categories": [
+      "opening",
+      "hands"
+    ]
+  },
+  {
+    "id": "game-ply-10",
+    "ply": 10,
+    "sfen": "lnsgk1snl/1r4gb1/p1pppp2p/6pp1/1p7/2P6/PP1PPPP1P/1BG4R1/LNS1KGSNL b p 11",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d",
+    "categories": [
+      "opening",
+      "hands",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-11",
+    "ply": 11,
+    "sfen": "lnsgk1snl/1r4gb1/p1pppp2p/6pR1/1p7/2P6/PP1PPPP1P/1BG6/LNS1KGSNL w Pp 12",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d",
+    "categories": [
+      "opening",
+      "hands"
+    ]
+  },
+  {
+    "id": "game-ply-12",
+    "ply": 12,
+    "sfen": "lnsgk1snl/1r4gb1/p1pppp2p/6pR1/9/1pP6/PP1PPPP1P/1BG6/LNS1KGSNL b Pp 13",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f",
+    "categories": [
+      "opening",
+      "hands"
+    ]
+  },
+  {
+    "id": "game-ply-13",
+    "ply": 13,
+    "sfen": "lnsgk1snl/1r4gb1/p1pppp2p/6pR1/9/1PP6/P2PPPP1P/1BG6/LNS1KGSNL w 2Pp 14",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f",
+    "categories": [
+      "opening",
+      "hands",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-14",
+    "ply": 14,
+    "sfen": "lnsgk1snl/6gb1/p1pppp2p/6pR1/9/1rP6/P2PPPP1P/1BG6/LNS1KGSNL b 2P2p 15",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f",
+    "categories": [
+      "opening",
+      "hands"
+    ]
+  },
+  {
+    "id": "game-ply-15",
+    "ply": 15,
+    "sfen": "lnsgk1snl/6gb1/p1pppp2p/6R2/9/1rP6/P2PPPP1P/1BG6/LNS1KGSNL w 3P2p 16",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d",
+    "categories": [
+      "opening",
+      "hands",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-16",
+    "ply": 16,
+    "sfen": "lnsgk1snl/6g2/p1ppppb1p/6R2/9/1rP6/P2PPPP1P/1BG6/LNS1KGSNL b 3P2p 17",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c",
+    "categories": [
+      "opening",
+      "hands",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-17",
+    "ply": 17,
+    "sfen": "lnsgk1snl/6g2/p1ppppb1p/6R2/9/1rP6/P2PPPP1P/1BG1K4/LNS2GSNL w 3P2p 18",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h",
+    "categories": [
+      "opening",
+      "hands",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-18",
+    "ply": 18,
+    "sfen": "lnsg2snl/4k1g2/p1ppppb1p/6R2/9/1rP6/P2PPPP1P/1BG1K4/LNS2GSNL b 3P2p 19",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b",
+    "categories": [
+      "opening",
+      "hands",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-19",
+    "ply": 19,
+    "sfen": "lnsg2snl/4k1g2/p1ppppb1p/6R2/9/1rP3P2/P2PPP2P/1BG1K4/LNS2GSNL w 3P2p 20",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f",
+    "categories": [
+      "opening",
+      "hands",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-20",
+    "ply": 20,
+    "sfen": "lnsg2snl/4k1g2/p1ppppb1p/6R2/9/2r3P2/P2PPP2P/1BG1K4/LNS2GSNL b 3P3p 21",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f",
+    "categories": [
+      "middle",
+      "hands"
+    ]
+  },
+  {
+    "id": "game-ply-21",
+    "ply": 21,
+    "sfen": "lnsg2snl/4k1g2/p1ppppb1p/6R2/9/2r3P2/P1BPPP2P/2G1K4/LNS2GSNL w 3P3p 22",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g",
+    "categories": [
+      "middle",
+      "hands"
+    ]
+  },
+  {
+    "id": "game-ply-22",
+    "ply": 22,
+    "sfen": "lnsg2snl/4k1g2/p1ppppb1p/2r3R2/9/6P2/P1BPPP2P/2G1K4/LNS2GSNL b 3P3p 23",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d",
+    "categories": [
+      "middle",
+      "hands"
+    ]
+  },
+  {
+    "id": "game-ply-23",
+    "ply": 23,
+    "sfen": "lnsg2snl/4k1g2/p1ppppb1p/2R6/9/6P2/P1BPPP2P/2G1K4/LNS2GSNL w R3P3p 24",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d",
+    "categories": [
+      "middle",
+      "hands",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-24",
+    "ply": 24,
+    "sfen": "lnsg2snl/4k1g2/p2pppb1p/2p6/9/6P2/P1BPPP2P/2G1K4/LNS2GSNL b R3Pr3p 25",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d",
+    "categories": [
+      "middle",
+      "hands"
+    ]
+  },
+  {
+    "id": "game-ply-25",
+    "ply": 25,
+    "sfen": "lnsg2snl/4k1g2/p2pppb1p/2p6/9/6P2/P1BPPP2P/2G1K2P1/LNS2GSNL w R2Pr3p 26",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h",
+    "categories": [
+      "middle",
+      "hands"
+    ]
+  },
+  {
+    "id": "game-ply-26",
+    "ply": 26,
+    "sfen": "ln1g2snl/2s1k1g2/p2pppb1p/2p6/9/6P2/P1BPPP2P/2G1K2P1/LNS2GSNL b R2Pr3p 27",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b",
+    "categories": [
+      "middle",
+      "hands"
+    ]
+  },
+  {
+    "id": "game-ply-27",
+    "ply": 27,
+    "sfen": "ln1g2snl/1Ps1k1g2/p2pppb1p/2p6/9/6P2/P1BPPP2P/2G1K2P1/LNS2GSNL w RPr3p 28",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b",
+    "categories": [
+      "middle",
+      "hands"
+    ]
+  },
+  {
+    "id": "game-ply-28",
+    "ply": 28,
+    "sfen": "l2g2snl/1Ps1k1g2/p1npppb1p/2p6/9/6P2/P1BPPP2P/2G1K2P1/LNS2GSNL b RPr3p 29",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c",
+    "categories": [
+      "middle",
+      "hands"
+    ]
+  },
+  {
+    "id": "game-ply-29",
+    "ply": 29,
+    "sfen": "l+P1g2snl/2s1k1g2/p1npppb1p/2p6/9/6P2/P1BPPP2P/2G1K2P1/LNS2GSNL w RPr3p 30",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+",
+    "categories": [
+      "middle",
+      "hands",
+      "promoted"
+    ]
+  },
+  {
+    "id": "game-ply-30",
+    "ply": 30,
+    "sfen": "ls1g2snl/4k1g2/p1npppb1p/2p6/9/6P2/P1BPPP2P/2G1K2P1/LNS2GSNL b RPr4p 31",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a",
+    "categories": [
+      "middle",
+      "hands",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-31",
+    "ply": 31,
+    "sfen": "ls1g2snl/4k1g2/pRnpppb1p/2p6/9/6P2/P1BPPP2P/2G1K2P1/LNS2GSNL w Pr4p 32",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a R*8c",
+    "categories": [
+      "middle",
+      "hands",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-32",
+    "ply": 32,
+    "sfen": "ls1g2snl/1r2k1g2/pRnpppb1p/2p6/9/6P2/P1BPPP2P/2G1K2P1/LNS2GSNL b P4p 33",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a R*8c R*8b",
+    "categories": [
+      "middle",
+      "hands",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-33",
+    "ply": 33,
+    "sfen": "ls1g2snl/1+R2k1g2/p1npppb1p/2p6/9/6P2/P1BPPP2P/2G1K2P1/LNS2GSNL w RP4p 34",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a R*8c R*8b 8c8b+",
+    "categories": [
+      "middle",
+      "check",
+      "hands",
+      "promoted",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-34",
+    "ply": 34,
+    "sfen": "l2g2snl/1s2k1g2/p1npppb1p/2p6/9/6P2/P1BPPP2P/2G1K2P1/LNS2GSNL b RPr4p 35",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a R*8c R*8b 8c8b+ 8a8b",
+    "categories": [
+      "middle",
+      "hands",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-35",
+    "ply": 35,
+    "sfen": "l2g2snl/1s2k1g2/pPnpppb1p/2p6/9/6P2/P1BPPP2P/2G1K2P1/LNS2GSNL w Rr4p 36",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a R*8c R*8b 8c8b+ 8a8b P*8c",
+    "categories": [
+      "middle",
+      "hands",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-36",
+    "ply": 36,
+    "sfen": "l2g2snl/4k1g2/psnpppb1p/2p6/9/6P2/P1BPPP2P/2G1K2P1/LNS2GSNL b Rr5p 37",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a R*8c R*8b 8c8b+ 8a8b P*8c 8b8c",
+    "categories": [
+      "middle",
+      "hands",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-37",
+    "ply": 37,
+    "sfen": "l2g2snl/4k1g2/psnppp+B1p/2p6/9/6P2/P2PPP2P/2G1K2P1/LNS2GSNL w RBr5p 38",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a R*8c R*8b 8c8b+ 8a8b P*8c 8b8c 7g3c+",
+    "categories": [
+      "middle",
+      "hands",
+      "promoted",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-38",
+    "ply": 38,
+    "sfen": "l2g2s1l/4k1g2/psnpppn1p/2p6/9/6P2/P2PPP2P/2G1K2P1/LNS2GSNL b RBrb5p 39",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a R*8c R*8b 8c8b+ 8a8b P*8c 8b8c 7g3c+ 2a3c",
+    "categories": [
+      "middle",
+      "hands",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-39",
+    "ply": 39,
+    "sfen": "lR1g2s1l/4k1g2/psnpppn1p/2p6/9/6P2/P2PPP2P/2G1K2P1/LNS2GSNL w Brb5p 40",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a R*8c R*8b 8c8b+ 8a8b P*8c 8b8c 7g3c+ 2a3c R*8a",
+    "categories": [
+      "middle",
+      "hands",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-40",
+    "ply": 40,
+    "sfen": "lR1g2s1l/2s1k1g2/p1npppn1p/2p6/9/6P2/P2PPP2P/2G1K2P1/LNS2GSNL b Brb5p 41",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a R*8c R*8b 8c8b+ 8a8b P*8c 8b8c 7g3c+ 2a3c R*8a 8c7b",
+    "categories": [
+      "middle",
+      "hands",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-41",
+    "ply": 41,
+    "sfen": "+R2g2s1l/2s1k1g2/p1npppn1p/2p6/9/6P2/P2PPP2P/2G1K2P1/LNS2GSNL w BLrb5p 42",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a R*8c R*8b 8c8b+ 8a8b P*8c 8b8c 7g3c+ 2a3c R*8a 8c7b 8a9a+",
+    "categories": [
+      "middle",
+      "hands",
+      "promoted",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-42",
+    "ply": 42,
+    "sfen": "+Rp1g2s1l/2s1k1g2/p1npppn1p/2p6/9/6P2/P2PPP2P/2G1K2P1/LNS2GSNL b BLrb4p 43",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a R*8c R*8b 8c8b+ 8a8b P*8c 8b8c 7g3c+ 2a3c R*8a 8c7b 8a9a+ P*8a",
+    "categories": [
+      "middle",
+      "hands",
+      "promoted",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-43",
+    "ply": 43,
+    "sfen": "1p1g2s1l/+R1s1k1g2/p1npppn1p/2p6/9/6P2/P2PPP2P/2G1K2P1/LNS2GSNL w BLrb4p 44",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a R*8c R*8b 8c8b+ 8a8b P*8c 8b8c 7g3c+ 2a3c R*8a 8c7b 8a9a+ P*8a 9a9b",
+    "categories": [
+      "middle",
+      "hands",
+      "promoted",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-44",
+    "ply": 44,
+    "sfen": "1p1g1ks1l/+R1s3g2/p1npppn1p/2p6/9/6P2/P2PPP2P/2G1K2P1/LNS2GSNL b BLrb4p 45",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a R*8c R*8b 8c8b+ 8a8b P*8c 8b8c 7g3c+ 2a3c R*8a 8c7b 8a9a+ P*8a 9a9b 5b4a",
+    "categories": [
+      "middle",
+      "hands",
+      "promoted",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-45",
+    "ply": 45,
+    "sfen": "1p1g1ks1l/+R1s3g2/p1npppn1p/2p6/9/3B2P2/P2PPP2P/2G1K2P1/LNS2GSNL w Lrb4p 46",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a R*8c R*8b 8c8b+ 8a8b P*8c 8b8c 7g3c+ 2a3c R*8a 8c7b 8a9a+ P*8a 9a9b 5b4a B*6f",
+    "categories": [
+      "middle",
+      "hands",
+      "promoted",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-46",
+    "ply": 46,
+    "sfen": "1p1g1ks1l/+R1s3g2/p1npppn1p/2p2b3/9/3B2P2/P2PPP2P/2G1K2P1/LNS2GSNL b Lr4p 47",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a R*8c R*8b 8c8b+ 8a8b P*8c 8b8c 7g3c+ 2a3c R*8a 8c7b 8a9a+ P*8a 9a9b 5b4a B*6f B*4d",
+    "categories": [
+      "middle",
+      "hands",
+      "promoted",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-47",
+    "ply": 47,
+    "sfen": "1p1g1ks1l/+R1s3g2/p1npppn1p/2p2B3/9/6P2/P2PPP2P/2G1K2P1/LNS2GSNL w BLr4p 48",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a R*8c R*8b 8c8b+ 8a8b P*8c 8b8c 7g3c+ 2a3c R*8a 8c7b 8a9a+ P*8a 9a9b 5b4a B*6f B*4d 6f4d",
+    "categories": [
+      "middle",
+      "hands",
+      "promoted",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-48",
+    "ply": 48,
+    "sfen": "1p1g1ks1l/+R1s3g2/p1npp1n1p/2p2p3/9/6P2/P2PPP2P/2G1K2P1/LNS2GSNL b BLrb4p 49",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a R*8c R*8b 8c8b+ 8a8b P*8c 8b8c 7g3c+ 2a3c R*8a 8c7b 8a9a+ P*8a 9a9b 5b4a B*6f B*4d 6f4d 4c4d",
+    "categories": [
+      "middle",
+      "hands",
+      "promoted",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-49",
+    "ply": 49,
+    "sfen": "1p1g1ks1l/+R1s3g2/p1npp1n1p/2p2pB2/9/6P2/P2PPP2P/2G1K2P1/LNS2GSNL w Lrb4p 50",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a R*8c R*8b 8c8b+ 8a8b P*8c 8b8c 7g3c+ 2a3c R*8a 8c7b 8a9a+ P*8a 9a9b 5b4a B*6f B*4d 6f4d 4c4d B*3d",
+    "categories": [
+      "middle",
+      "hands",
+      "promoted",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-50",
+    "ply": 50,
+    "sfen": "1p1g1ks1l/+R1s3g2/p1npp3p/2p2pB2/5n3/6P2/P2PPP2P/2G1K2P1/LNS2GSNL b Lrb4p 51",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a R*8c R*8b 8c8b+ 8a8b P*8c 8b8c 7g3c+ 2a3c R*8a 8c7b 8a9a+ P*8a 9a9b 5b4a B*6f B*4d 6f4d 4c4d B*3d 3c4e",
+    "categories": [
+      "middle",
+      "hands",
+      "promoted",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-51",
+    "ply": 51,
+    "sfen": "1p1+B1ks1l/+R1s3g2/p1npp3p/2p2p3/5n3/6P2/P2PPP2P/2G1K2P1/LNS2GSNL w GLrb4p 52",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a R*8c R*8b 8c8b+ 8a8b P*8c 8b8c 7g3c+ 2a3c R*8a 8c7b 8a9a+ P*8a 9a9b 5b4a B*6f B*4d 6f4d 4c4d B*3d 3c4e 3d6a+",
+    "categories": [
+      "middle",
+      "hands",
+      "promoted",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-52",
+    "ply": 52,
+    "sfen": "1p1s1ks1l/+R5g2/p1npp3p/2p2p3/5n3/6P2/P2PPP2P/2G1K2P1/LNS2GSNL b GLr2b4p 53",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a R*8c R*8b 8c8b+ 8a8b P*8c 8b8c 7g3c+ 2a3c R*8a 8c7b 8a9a+ P*8a 9a9b 5b4a B*6f B*4d 6f4d 4c4d B*3d 3c4e 3d6a+ 7b6a",
+    "categories": [
+      "middle",
+      "hands",
+      "promoted",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-53",
+    "ply": 53,
+    "sfen": "1p1s1ks1l/+R5g2/p1npp3p/2p2p3/5n3/6P2/P1NPPP2P/2G1K2P1/L1S2GSNL w GLr2b4p 54",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a R*8c R*8b 8c8b+ 8a8b P*8c 8b8c 7g3c+ 2a3c R*8a 8c7b 8a9a+ P*8a 9a9b 5b4a B*6f B*4d 6f4d 4c4d B*3d 3c4e 3d6a+ 7b6a 8i7g",
+    "categories": [
+      "middle",
+      "hands",
+      "promoted",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-54",
+    "ply": 54,
+    "sfen": "1p1s1ks1l/+R5g2/p1npp3p/2p2p3/5n3/6P2/P1NPPP2P/2G1K2P1/LrS2GSNL b GL2b4p 55",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a R*8c R*8b 8c8b+ 8a8b P*8c 8b8c 7g3c+ 2a3c R*8a 8c7b 8a9a+ P*8a 9a9b 5b4a B*6f B*4d 6f4d 4c4d B*3d 3c4e 3d6a+ 7b6a 8i7g R*8i",
+    "categories": [
+      "middle",
+      "hands",
+      "promoted",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-55",
+    "ply": 55,
+    "sfen": "1p1s1ks1l/+R5g2/p1npp3p/2p2p3/5n3/5PP2/P1NPP3P/2G1K2P1/LrS2GSNL w GL2b4p 56",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a R*8c R*8b 8c8b+ 8a8b P*8c 8b8c 7g3c+ 2a3c R*8a 8c7b 8a9a+ P*8a 9a9b 5b4a B*6f B*4d 6f4d 4c4d B*3d 3c4e 3d6a+ 7b6a 8i7g R*8i 4g4f",
+    "categories": [
+      "middle",
+      "hands",
+      "promoted",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-56",
+    "ply": 56,
+    "sfen": "1p1s1ks1l/+R5g2/p1npp3p/2p2p3/5n3/5PP2/P1NPP3P/1bG1K2P1/LrS2GSNL b GLb4p 57",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a R*8c R*8b 8c8b+ 8a8b P*8c 8b8c 7g3c+ 2a3c R*8a 8c7b 8a9a+ P*8a 9a9b 5b4a B*6f B*4d 6f4d 4c4d B*3d 3c4e 3d6a+ 7b6a 8i7g R*8i 4g4f B*8h",
+    "categories": [
+      "middle",
+      "hands",
+      "promoted",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-57",
+    "ply": 57,
+    "sfen": "1p1s1ks1l/+R5g2/p1npp3p/2p2p3/5nL2/5PP2/P1NPP3P/1bG1K2P1/LrS2GSNL w Gb4p 58",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a R*8c R*8b 8c8b+ 8a8b P*8c 8b8c 7g3c+ 2a3c R*8a 8c7b 8a9a+ P*8a 9a9b 5b4a B*6f B*4d 6f4d 4c4d B*3d 3c4e 3d6a+ 7b6a 8i7g R*8i 4g4f B*8h L*3e",
+    "categories": [
+      "middle",
+      "hands",
+      "promoted",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-58",
+    "ply": 58,
+    "sfen": "1p1s1ks1l/+R5g2/p1npp1p1p/2p2p3/5nL2/5PP2/P1NPP3P/1bG1K2P1/LrS2GSNL b Gb3p 59",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a R*8c R*8b 8c8b+ 8a8b P*8c 8b8c 7g3c+ 2a3c R*8a 8c7b 8a9a+ P*8a 9a9b 5b4a B*6f B*4d 6f4d 4c4d B*3d 3c4e 3d6a+ 7b6a 8i7g R*8i 4g4f B*8h L*3e P*3c",
+    "categories": [
+      "middle",
+      "hands",
+      "promoted",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-59",
+    "ply": 59,
+    "sfen": "1p1s1ks1l/+R5g2/p1npp1p1p/2p2p3/5nL2/5PP2/P1NPP3P/1SG1K2P1/Lr3GSNL w BGb3p 60",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a R*8c R*8b 8c8b+ 8a8b P*8c 8b8c 7g3c+ 2a3c R*8a 8c7b 8a9a+ P*8a 9a9b 5b4a B*6f B*4d 6f4d 4c4d B*3d 3c4e 3d6a+ 7b6a 8i7g R*8i 4g4f B*8h L*3e P*3c 7i8h",
+    "categories": [
+      "middle",
+      "hands",
+      "promoted",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-60",
+    "ply": 60,
+    "sfen": "1p1s1ks1l/+R5g2/p1npp1p1p/2p2p3/6L2/5PP2/P1NP+n3P/1SG1K2P1/Lr3GSNL b BGb4p 61",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a R*8c R*8b 8c8b+ 8a8b P*8c 8b8c 7g3c+ 2a3c R*8a 8c7b 8a9a+ P*8a 9a9b 5b4a B*6f B*4d 6f4d 4c4d B*3d 3c4e 3d6a+ 7b6a 8i7g R*8i 4g4f B*8h L*3e P*3c 7i8h 4e5g+",
+    "categories": [
+      "middle",
+      "check",
+      "hands",
+      "promoted",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-61",
+    "ply": 61,
+    "sfen": "1p1s1ks1l/+R5g2/p1npp1p1p/2p2p3/6L2/5PP2/P1NPK3P/1SG4P1/Lr3GSNL w BGNb4p 62",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a R*8c R*8b 8c8b+ 8a8b P*8c 8b8c 7g3c+ 2a3c R*8a 8c7b 8a9a+ P*8a 9a9b 5b4a B*6f B*4d 6f4d 4c4d B*3d 3c4e 3d6a+ 7b6a 8i7g R*8i 4g4f B*8h L*3e P*3c 7i8h 4e5g+ 5h5g",
+    "categories": [
+      "middle",
+      "hands",
+      "promoted",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-62",
+    "ply": 62,
+    "sfen": "1p1s1ks1l/+R5g2/p1npp1p1p/2p2p3/6L2/5PP2/P1NPK3P/1SG4P1/L4+rSNL b BGNbg4p 63",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a R*8c R*8b 8c8b+ 8a8b P*8c 8b8c 7g3c+ 2a3c R*8a 8c7b 8a9a+ P*8a 9a9b 5b4a B*6f B*4d 6f4d 4c4d B*3d 3c4e 3d6a+ 7b6a 8i7g R*8i 4g4f B*8h L*3e P*3c 7i8h 4e5g+ 5h5g 8i4i+",
+    "categories": [
+      "middle",
+      "hands",
+      "promoted",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-63",
+    "ply": 63,
+    "sfen": "1+R1s1ks1l/6g2/p1npp1p1p/2p2p3/6L2/5PP2/P1NPK3P/1SG4P1/L4+rSNL w BGNPbg4p 64",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a R*8c R*8b 8c8b+ 8a8b P*8c 8b8c 7g3c+ 2a3c R*8a 8c7b 8a9a+ P*8a 9a9b 5b4a B*6f B*4d 6f4d 4c4d B*3d 3c4e 3d6a+ 7b6a 8i7g R*8i 4g4f B*8h L*3e P*3c 7i8h 4e5g+ 5h5g 8i4i+ 9b8a",
+    "categories": [
+      "middle",
+      "hands",
+      "promoted",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-64",
+    "ply": 64,
+    "sfen": "1+R1s1ks1l/6g2/p1npp1p1p/2p2p3/6L2/5PP2/P1NPK3P/1SG4P1/L3+r1SNL b BGNPbg4p 65",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a R*8c R*8b 8c8b+ 8a8b P*8c 8b8c 7g3c+ 2a3c R*8a 8c7b 8a9a+ P*8a 9a9b 5b4a B*6f B*4d 6f4d 4c4d B*3d 3c4e 3d6a+ 7b6a 8i7g R*8i 4g4f B*8h L*3e P*3c 7i8h 4e5g+ 5h5g 8i4i+ 9b8a 4i5i",
+    "categories": [
+      "middle",
+      "check",
+      "hands",
+      "promoted",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-65",
+    "ply": 65,
+    "sfen": "1+R1s1ks1l/6g2/p1npp1p1p/2p2p3/6L2/5PP2/P1NPK3P/1SG1N2P1/L3+r1SNL w BGPbg4p 66",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a R*8c R*8b 8c8b+ 8a8b P*8c 8b8c 7g3c+ 2a3c R*8a 8c7b 8a9a+ P*8a 9a9b 5b4a B*6f B*4d 6f4d 4c4d B*3d 3c4e 3d6a+ 7b6a 8i7g R*8i 4g4f B*8h L*3e P*3c 7i8h 4e5g+ 5h5g 8i4i+ 9b8a 4i5i N*5h",
+    "categories": [
+      "ending",
+      "hands",
+      "promoted",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-66",
+    "ply": 66,
+    "sfen": "1+R1s1ks1l/6g2/p1npp1p1p/2p2p3/2b3L2/5PP2/P1NPK3P/1SG1N2P1/L3+r1SNL b BGPg4p 67",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a R*8c R*8b 8c8b+ 8a8b P*8c 8b8c 7g3c+ 2a3c R*8a 8c7b 8a9a+ P*8a 9a9b 5b4a B*6f B*4d 6f4d 4c4d B*3d 3c4e 3d6a+ 7b6a 8i7g R*8i 4g4f B*8h L*3e P*3c 7i8h 4e5g+ 5h5g 8i4i+ 9b8a 4i5i N*5h B*7e",
+    "categories": [
+      "ending",
+      "check",
+      "hands",
+      "promoted",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-67",
+    "ply": 67,
+    "sfen": "1+R1s1ks1l/6g2/p1npp1p1p/2p2p3/2b3L2/3B1PP2/P1NPK3P/1SG1N2P1/L3+r1SNL w GPg4p 68",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a R*8c R*8b 8c8b+ 8a8b P*8c 8b8c 7g3c+ 2a3c R*8a 8c7b 8a9a+ P*8a 9a9b 5b4a B*6f B*4d 6f4d 4c4d B*3d 3c4e 3d6a+ 7b6a 8i7g R*8i 4g4f B*8h L*3e P*3c 7i8h 4e5g+ 5h5g 8i4i+ 9b8a 4i5i N*5h B*7e B*6f",
+    "categories": [
+      "ending",
+      "hands",
+      "promoted",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-68",
+    "ply": 68,
+    "sfen": "1+R1s1ks1l/6g2/p1npp1p1p/2p2p3/6L2/3b1PP2/P1NPK3P/1SG1N2P1/L3+r1SNL b GPbg4p 69",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a R*8c R*8b 8c8b+ 8a8b P*8c 8b8c 7g3c+ 2a3c R*8a 8c7b 8a9a+ P*8a 9a9b 5b4a B*6f B*4d 6f4d 4c4d B*3d 3c4e 3d6a+ 7b6a 8i7g R*8i 4g4f B*8h L*3e P*3c 7i8h 4e5g+ 5h5g 8i4i+ 9b8a 4i5i N*5h B*7e B*6f 7e6f",
+    "categories": [
+      "ending",
+      "check",
+      "hands",
+      "promoted",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-69",
+    "ply": 69,
+    "sfen": "1+R1s1ks1l/6g2/p1npp1p1p/2p2p3/6L2/3K1PP2/P1NP4P/1SG1N2P1/L3+r1SNL w BGPbg4p 70",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a R*8c R*8b 8c8b+ 8a8b P*8c 8b8c 7g3c+ 2a3c R*8a 8c7b 8a9a+ P*8a 9a9b 5b4a B*6f B*4d 6f4d 4c4d B*3d 3c4e 3d6a+ 7b6a 8i7g R*8i 4g4f B*8h L*3e P*3c 7i8h 4e5g+ 5h5g 8i4i+ 9b8a 4i5i N*5h B*7e B*6f 7e6f 5g6f",
+    "categories": [
+      "ending",
+      "hands",
+      "promoted",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-70",
+    "ply": 70,
+    "sfen": "1+R1s1ks1l/2b3g2/p1npp1p1p/2p2p3/6L2/3K1PP2/P1NP4P/1SG1N2P1/L3+r1SNL b BGPg4p 71",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a R*8c R*8b 8c8b+ 8a8b P*8c 8b8c 7g3c+ 2a3c R*8a 8c7b 8a9a+ P*8a 9a9b 5b4a B*6f B*4d 6f4d 4c4d B*3d 3c4e 3d6a+ 7b6a 8i7g R*8i 4g4f B*8h L*3e P*3c 7i8h 4e5g+ 5h5g 8i4i+ 9b8a 4i5i N*5h B*7e B*6f 7e6f 5g6f B*7b",
+    "categories": [
+      "ending",
+      "hands",
+      "promoted",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-71",
+    "ply": 71,
+    "sfen": "3s1ks1l/2b3g2/p1npp1p1p/1+Rp2p3/6L2/3K1PP2/P1NP4P/1SG1N2P1/L3+r1SNL w BGPg4p 72",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a R*8c R*8b 8c8b+ 8a8b P*8c 8b8c 7g3c+ 2a3c R*8a 8c7b 8a9a+ P*8a 9a9b 5b4a B*6f B*4d 6f4d 4c4d B*3d 3c4e 3d6a+ 7b6a 8i7g R*8i 4g4f B*8h L*3e P*3c 7i8h 4e5g+ 5h5g 8i4i+ 9b8a 4i5i N*5h B*7e B*6f 7e6f 5g6f B*7b 8a8d",
+    "categories": [
+      "ending",
+      "hands",
+      "promoted",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-72",
+    "ply": 72,
+    "sfen": "3s1ks1l/2b3g2/p1npp1p1p/1+Rp2p3/6L2/3K1PP2/P1NP4P/1SG1+r2P1/L5SNL b BGPgn4p 73",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a R*8c R*8b 8c8b+ 8a8b P*8c 8b8c 7g3c+ 2a3c R*8a 8c7b 8a9a+ P*8a 9a9b 5b4a B*6f B*4d 6f4d 4c4d B*3d 3c4e 3d6a+ 7b6a 8i7g R*8i 4g4f B*8h L*3e P*3c 7i8h 4e5g+ 5h5g 8i4i+ 9b8a 4i5i N*5h B*7e B*6f 7e6f 5g6f B*7b 8a8d 5i5h",
+    "categories": [
+      "ending",
+      "hands",
+      "promoted",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-73",
+    "ply": 73,
+    "sfen": "3s1ks1l/2b3g2/p1npp1p1p/2+R2p3/6L2/3K1PP2/P1NP4P/1SG1+r2P1/L5SNL w BG2Pgn4p 74",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a R*8c R*8b 8c8b+ 8a8b P*8c 8b8c 7g3c+ 2a3c R*8a 8c7b 8a9a+ P*8a 9a9b 5b4a B*6f B*4d 6f4d 4c4d B*3d 3c4e 3d6a+ 7b6a 8i7g R*8i 4g4f B*8h L*3e P*3c 7i8h 4e5g+ 5h5g 8i4i+ 9b8a 4i5i N*5h B*7e B*6f 7e6f 5g6f B*7b 8a8d 5i5h 8d7d",
+    "categories": [
+      "ending",
+      "hands",
+      "promoted",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-74",
+    "ply": 74,
+    "sfen": "3s1ks1l/2b3g2/p1npp1p1p/2+R2p3/4g1L2/3K1PP2/P1NP4P/1SG1+r2P1/L5SNL b BG2Pn4p 75",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a R*8c R*8b 8c8b+ 8a8b P*8c 8b8c 7g3c+ 2a3c R*8a 8c7b 8a9a+ P*8a 9a9b 5b4a B*6f B*4d 6f4d 4c4d B*3d 3c4e 3d6a+ 7b6a 8i7g R*8i 4g4f B*8h L*3e P*3c 7i8h 4e5g+ 5h5g 8i4i+ 9b8a 4i5i N*5h B*7e B*6f 7e6f 5g6f B*7b 8a8d 5i5h 8d7d G*5e",
+    "categories": [
+      "ending",
+      "check",
+      "hands",
+      "promoted",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-75",
+    "ply": 75,
+    "sfen": "3s1ks1l/2b3g2/p1npp1p1p/2+R2p3/2K1g1L2/5PP2/P1NP4P/1SG1+r2P1/L5SNL w BG2Pn4p 76",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a R*8c R*8b 8c8b+ 8a8b P*8c 8b8c 7g3c+ 2a3c R*8a 8c7b 8a9a+ P*8a 9a9b 5b4a B*6f B*4d 6f4d 4c4d B*3d 3c4e 3d6a+ 7b6a 8i7g R*8i 4g4f B*8h L*3e P*3c 7i8h 4e5g+ 5h5g 8i4i+ 9b8a 4i5i N*5h B*7e B*6f 7e6f 5g6f B*7b 8a8d 5i5h 8d7d G*5e 6f7e",
+    "categories": [
+      "ending",
+      "hands",
+      "promoted",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-76",
+    "ply": 76,
+    "sfen": "3s1ks1l/2b3g2/p1npp1p1p/2+R2p3/2K1g1L2/5PP2/P1NP4P/1S+r4P1/L5SNL b BG2Pgn4p 77",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a R*8c R*8b 8c8b+ 8a8b P*8c 8b8c 7g3c+ 2a3c R*8a 8c7b 8a9a+ P*8a 9a9b 5b4a B*6f B*4d 6f4d 4c4d B*3d 3c4e 3d6a+ 7b6a 8i7g R*8i 4g4f B*8h L*3e P*3c 7i8h 4e5g+ 5h5g 8i4i+ 9b8a 4i5i N*5h B*7e B*6f 7e6f 5g6f B*7b 8a8d 5i5h 8d7d G*5e 6f7e 5h7h",
+    "categories": [
+      "ending",
+      "hands",
+      "promoted",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-77",
+    "ply": 77,
+    "sfen": "3s1ks1l/2b3g2/p1npp1p1p/2+R2p3/2K1g1LB1/5PP2/P1NP4P/1S+r4P1/L5SNL w G2Pgn4p 78",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a R*8c R*8b 8c8b+ 8a8b P*8c 8b8c 7g3c+ 2a3c R*8a 8c7b 8a9a+ P*8a 9a9b 5b4a B*6f B*4d 6f4d 4c4d B*3d 3c4e 3d6a+ 7b6a 8i7g R*8i 4g4f B*8h L*3e P*3c 7i8h 4e5g+ 5h5g 8i4i+ 9b8a 4i5i N*5h B*7e B*6f 7e6f 5g6f B*7b 8a8d 5i5h 8d7d G*5e 6f7e 5h7h B*2e",
+    "categories": [
+      "ending",
+      "hands",
+      "promoted",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-78",
+    "ply": 78,
+    "sfen": "3s1ks1l/2b3g2/p1npp1p1p/2+R2p3/2K1g1LB1/5PP2/P1NP4P/1+r5P1/L5SNL b G2Pgsn4p 79",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a R*8c R*8b 8c8b+ 8a8b P*8c 8b8c 7g3c+ 2a3c R*8a 8c7b 8a9a+ P*8a 9a9b 5b4a B*6f B*4d 6f4d 4c4d B*3d 3c4e 3d6a+ 7b6a 8i7g R*8i 4g4f B*8h L*3e P*3c 7i8h 4e5g+ 5h5g 8i4i+ 9b8a 4i5i N*5h B*7e B*6f 7e6f 5g6f B*7b 8a8d 5i5h 8d7d G*5e 6f7e 5h7h B*2e 7h8h",
+    "categories": [
+      "ending",
+      "hands",
+      "promoted",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-79",
+    "ply": 79,
+    "sfen": "3sGks1l/2b3g2/p1npp1p1p/2+R2p3/2K1g1LB1/5PP2/P1NP4P/1+r5P1/L5SNL w 2Pgsn4p 80",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a R*8c R*8b 8c8b+ 8a8b P*8c 8b8c 7g3c+ 2a3c R*8a 8c7b 8a9a+ P*8a 9a9b 5b4a B*6f B*4d 6f4d 4c4d B*3d 3c4e 3d6a+ 7b6a 8i7g R*8i 4g4f B*8h L*3e P*3c 7i8h 4e5g+ 5h5g 8i4i+ 9b8a 4i5i N*5h B*7e B*6f 7e6f 5g6f B*7b 8a8d 5i5h 8d7d G*5e 6f7e 5h7h B*2e 7h8h G*5a",
+    "categories": [
+      "ending",
+      "check",
+      "hands",
+      "promoted",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-80",
+    "ply": 80,
+    "sfen": "3sk1s1l/2b3g2/p1npp1p1p/2+R2p3/2K1g1LB1/5PP2/P1NP4P/1+r5P1/L5SNL b 2P2gsn4p 81",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a R*8c R*8b 8c8b+ 8a8b P*8c 8b8c 7g3c+ 2a3c R*8a 8c7b 8a9a+ P*8a 9a9b 5b4a B*6f B*4d 6f4d 4c4d B*3d 3c4e 3d6a+ 7b6a 8i7g R*8i 4g4f B*8h L*3e P*3c 7i8h 4e5g+ 5h5g 8i4i+ 9b8a 4i5i N*5h B*7e B*6f 7e6f 5g6f B*7b 8a8d 5i5h 8d7d G*5e 6f7e 5h7h B*2e 7h8h G*5a 4a5a",
+    "categories": [
+      "ending",
+      "hands",
+      "promoted",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-81",
+    "ply": 81,
+    "sfen": "3sk1s1l/2b1P1g2/p1npp1p1p/2+R2p3/2K1g1LB1/5PP2/P1NP4P/1+r5P1/L5SNL w P2gsn4p 82",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a R*8c R*8b 8c8b+ 8a8b P*8c 8b8c 7g3c+ 2a3c R*8a 8c7b 8a9a+ P*8a 9a9b 5b4a B*6f B*4d 6f4d 4c4d B*3d 3c4e 3d6a+ 7b6a 8i7g R*8i 4g4f B*8h L*3e P*3c 7i8h 4e5g+ 5h5g 8i4i+ 9b8a 4i5i N*5h B*7e B*6f 7e6f 5g6f B*7b 8a8d 5i5h 8d7d G*5e 6f7e 5h7h B*2e 7h8h G*5a 4a5a P*5b",
+    "categories": [
+      "ending",
+      "check",
+      "hands",
+      "promoted",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-82",
+    "ply": 82,
+    "sfen": "4k1s1l/2b1s1g2/p1npp1p1p/2+R2p3/2K1g1LB1/5PP2/P1NP4P/1+r5P1/L5SNL b P2gsn5p 83",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a R*8c R*8b 8c8b+ 8a8b P*8c 8b8c 7g3c+ 2a3c R*8a 8c7b 8a9a+ P*8a 9a9b 5b4a B*6f B*4d 6f4d 4c4d B*3d 3c4e 3d6a+ 7b6a 8i7g R*8i 4g4f B*8h L*3e P*3c 7i8h 4e5g+ 5h5g 8i4i+ 9b8a 4i5i N*5h B*7e B*6f 7e6f 5g6f B*7b 8a8d 5i5h 8d7d G*5e 6f7e 5h7h B*2e 7h8h G*5a 4a5a P*5b 6a5b",
+    "categories": [
+      "ending",
+      "hands",
+      "promoted",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-83",
+    "ply": 83,
+    "sfen": "4k1s1l/2b1+B1g2/p1npp1p1p/2+R2p3/2K1g1L2/5PP2/P1NP4P/1+r5P1/L5SNL w SP2gsn5p 84",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a R*8c R*8b 8c8b+ 8a8b P*8c 8b8c 7g3c+ 2a3c R*8a 8c7b 8a9a+ P*8a 9a9b 5b4a B*6f B*4d 6f4d 4c4d B*3d 3c4e 3d6a+ 7b6a 8i7g R*8i 4g4f B*8h L*3e P*3c 7i8h 4e5g+ 5h5g 8i4i+ 9b8a 4i5i N*5h B*7e B*6f 7e6f 5g6f B*7b 8a8d 5i5h 8d7d G*5e 6f7e 5h7h B*2e 7h8h G*5a 4a5a P*5b 6a5b 2e5b+",
+    "categories": [
+      "ending",
+      "check",
+      "hands",
+      "promoted",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-84",
+    "ply": 84,
+    "sfen": "6s1l/2b1k1g2/p1npp1p1p/2+R2p3/2K1g1L2/5PP2/P1NP4P/1+r5P1/L5SNL b SPb2gsn5p 85",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a R*8c R*8b 8c8b+ 8a8b P*8c 8b8c 7g3c+ 2a3c R*8a 8c7b 8a9a+ P*8a 9a9b 5b4a B*6f B*4d 6f4d 4c4d B*3d 3c4e 3d6a+ 7b6a 8i7g R*8i 4g4f B*8h L*3e P*3c 7i8h 4e5g+ 5h5g 8i4i+ 9b8a 4i5i N*5h B*7e B*6f 7e6f 5g6f B*7b 8a8d 5i5h 8d7d G*5e 6f7e 5h7h B*2e 7h8h G*5a 4a5a P*5b 6a5b 2e5b+ 5a5b",
+    "categories": [
+      "ending",
+      "hands",
+      "promoted",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-85",
+    "ply": 85,
+    "sfen": "5Ss1l/2b1k1g2/p1npp1p1p/2+R2p3/2K1g1L2/5PP2/P1NP4P/1+r5P1/L5SNL w Pb2gsn5p 86",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a R*8c R*8b 8c8b+ 8a8b P*8c 8b8c 7g3c+ 2a3c R*8a 8c7b 8a9a+ P*8a 9a9b 5b4a B*6f B*4d 6f4d 4c4d B*3d 3c4e 3d6a+ 7b6a 8i7g R*8i 4g4f B*8h L*3e P*3c 7i8h 4e5g+ 5h5g 8i4i+ 9b8a 4i5i N*5h B*7e B*6f 7e6f 5g6f B*7b 8a8d 5i5h 8d7d G*5e 6f7e 5h7h B*2e 7h8h G*5a 4a5a P*5b 6a5b 2e5b+ 5a5b S*4a",
+    "categories": [
+      "ending",
+      "check",
+      "hands",
+      "promoted",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-86",
+    "ply": 86,
+    "sfen": "5ks1l/2b3g2/p1npp1p1p/2+R2p3/2K1g1L2/5PP2/P1NP4P/1+r5P1/L5SNL b Pb2g2sn5p 87",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a R*8c R*8b 8c8b+ 8a8b P*8c 8b8c 7g3c+ 2a3c R*8a 8c7b 8a9a+ P*8a 9a9b 5b4a B*6f B*4d 6f4d 4c4d B*3d 3c4e 3d6a+ 7b6a 8i7g R*8i 4g4f B*8h L*3e P*3c 7i8h 4e5g+ 5h5g 8i4i+ 9b8a 4i5i N*5h B*7e B*6f 7e6f 5g6f B*7b 8a8d 5i5h 8d7d G*5e 6f7e 5h7h B*2e 7h8h G*5a 4a5a P*5b 6a5b 2e5b+ 5a5b S*4a 5b4a",
+    "categories": [
+      "ending",
+      "hands",
+      "promoted",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-87",
+    "ply": 87,
+    "sfen": "5ks1l/2b3g2/p1npp1p1p/5+R3/2K1g1L2/5PP2/P1NP4P/1+r5P1/L5SNL w 2Pb2g2sn5p 88",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a R*8c R*8b 8c8b+ 8a8b P*8c 8b8c 7g3c+ 2a3c R*8a 8c7b 8a9a+ P*8a 9a9b 5b4a B*6f B*4d 6f4d 4c4d B*3d 3c4e 3d6a+ 7b6a 8i7g R*8i 4g4f B*8h L*3e P*3c 7i8h 4e5g+ 5h5g 8i4i+ 9b8a 4i5i N*5h B*7e B*6f 7e6f 5g6f B*7b 8a8d 5i5h 8d7d G*5e 6f7e 5h7h B*2e 7h8h G*5a 4a5a P*5b 6a5b 2e5b+ 5a5b S*4a 5b4a 7d4d",
+    "categories": [
+      "ending",
+      "check",
+      "hands",
+      "promoted",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-88",
+    "ply": 88,
+    "sfen": "5ks1l/2b3g2/p1nppnp1p/5+R3/2K1g1L2/5PP2/P1NP4P/1+r5P1/L5SNL b 2Pb2g2s5p 89",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a R*8c R*8b 8c8b+ 8a8b P*8c 8b8c 7g3c+ 2a3c R*8a 8c7b 8a9a+ P*8a 9a9b 5b4a B*6f B*4d 6f4d 4c4d B*3d 3c4e 3d6a+ 7b6a 8i7g R*8i 4g4f B*8h L*3e P*3c 7i8h 4e5g+ 5h5g 8i4i+ 9b8a 4i5i N*5h B*7e B*6f 7e6f 5g6f B*7b 8a8d 5i5h 8d7d G*5e 6f7e 5h7h B*2e 7h8h G*5a 4a5a P*5b 6a5b 2e5b+ 5a5b S*4a 5b4a 7d4d N*4c",
+    "categories": [
+      "ending",
+      "hands",
+      "promoted",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-89",
+    "ply": 89,
+    "sfen": "5ks1l/2b3g2/p1npp+Rp1p/9/2K1g1L2/5PP2/P1NP4P/1+r5P1/L5SNL w N2Pb2g2s5p 90",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a R*8c R*8b 8c8b+ 8a8b P*8c 8b8c 7g3c+ 2a3c R*8a 8c7b 8a9a+ P*8a 9a9b 5b4a B*6f B*4d 6f4d 4c4d B*3d 3c4e 3d6a+ 7b6a 8i7g R*8i 4g4f B*8h L*3e P*3c 7i8h 4e5g+ 5h5g 8i4i+ 9b8a 4i5i N*5h B*7e B*6f 7e6f 5g6f B*7b 8a8d 5i5h 8d7d G*5e 6f7e 5h7h B*2e 7h8h G*5a 4a5a P*5b 6a5b 2e5b+ 5a5b S*4a 5b4a 7d4d N*4c 4d4c",
+    "categories": [
+      "ending",
+      "check",
+      "hands",
+      "promoted",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-90",
+    "ply": 90,
+    "sfen": "5ks1l/2b6/p1nppgp1p/9/2K1g1L2/5PP2/P1NP4P/1+r5P1/L5SNL b N2Prb2g2s5p 91",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a R*8c R*8b 8c8b+ 8a8b P*8c 8b8c 7g3c+ 2a3c R*8a 8c7b 8a9a+ P*8a 9a9b 5b4a B*6f B*4d 6f4d 4c4d B*3d 3c4e 3d6a+ 7b6a 8i7g R*8i 4g4f B*8h L*3e P*3c 7i8h 4e5g+ 5h5g 8i4i+ 9b8a 4i5i N*5h B*7e B*6f 7e6f 5g6f B*7b 8a8d 5i5h 8d7d G*5e 6f7e 5h7h B*2e 7h8h G*5a 4a5a P*5b 6a5b 2e5b+ 5a5b S*4a 5b4a 7d4d N*4c 4d4c 3b4c",
+    "categories": [
+      "ending",
+      "hands",
+      "promoted",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-91",
+    "ply": 91,
+    "sfen": "5ks1l/2b6/p1nppgp1p/9/2K1g1L2/5PP1P/P1NP5/1+r5P1/L5SNL w N2Prb2g2s5p 92",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a R*8c R*8b 8c8b+ 8a8b P*8c 8b8c 7g3c+ 2a3c R*8a 8c7b 8a9a+ P*8a 9a9b 5b4a B*6f B*4d 6f4d 4c4d B*3d 3c4e 3d6a+ 7b6a 8i7g R*8i 4g4f B*8h L*3e P*3c 7i8h 4e5g+ 5h5g 8i4i+ 9b8a 4i5i N*5h B*7e B*6f 7e6f 5g6f B*7b 8a8d 5i5h 8d7d G*5e 6f7e 5h7h B*2e 7h8h G*5a 4a5a P*5b 6a5b 2e5b+ 5a5b S*4a 5b4a 7d4d N*4c 4d4c 3b4c 1g1f",
+    "categories": [
+      "ending",
+      "hands",
+      "promoted",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-92",
+    "ply": 92,
+    "sfen": "5ks1l/2b6/p1nppgp1p/3b5/2K1g1L2/5PP1P/P1NP5/1+r5P1/L5SNL b N2Pr2g2s5p 93",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a R*8c R*8b 8c8b+ 8a8b P*8c 8b8c 7g3c+ 2a3c R*8a 8c7b 8a9a+ P*8a 9a9b 5b4a B*6f B*4d 6f4d 4c4d B*3d 3c4e 3d6a+ 7b6a 8i7g R*8i 4g4f B*8h L*3e P*3c 7i8h 4e5g+ 5h5g 8i4i+ 9b8a 4i5i N*5h B*7e B*6f 7e6f 5g6f B*7b 8a8d 5i5h 8d7d G*5e 6f7e 5h7h B*2e 7h8h G*5a 4a5a P*5b 6a5b 2e5b+ 5a5b S*4a 5b4a 7d4d N*4c 4d4c 3b4c 1g1f B*6d",
+    "categories": [
+      "ending",
+      "check",
+      "hands",
+      "promoted",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-93",
+    "ply": 93,
+    "sfen": "5ks1l/2b6/p1nppgp1p/3b5/4g1L2/2K2PP1P/P1NP5/1+r5P1/L5SNL w N2Pr2g2s5p 94",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a R*8c R*8b 8c8b+ 8a8b P*8c 8b8c 7g3c+ 2a3c R*8a 8c7b 8a9a+ P*8a 9a9b 5b4a B*6f B*4d 6f4d 4c4d B*3d 3c4e 3d6a+ 7b6a 8i7g R*8i 4g4f B*8h L*3e P*3c 7i8h 4e5g+ 5h5g 8i4i+ 9b8a 4i5i N*5h B*7e B*6f 7e6f 5g6f B*7b 8a8d 5i5h 8d7d G*5e 6f7e 5h7h B*2e 7h8h G*5a 4a5a P*5b 6a5b 2e5b+ 5a5b S*4a 5b4a 7d4d N*4c 4d4c 3b4c 1g1f B*6d 7e7f",
+    "categories": [
+      "ending",
+      "hands",
+      "promoted",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "game-ply-94",
+    "ply": 94,
+    "sfen": "5ks1l/2b6/p1nppgp1p/3b5/2r1g1L2/2K2PP1P/P1NP5/1+r5P1/L5SNL b N2P2g2s5p 95",
+    "command": "position startpos moves 2g2f 4a3b 7g7f 8c8d 2f2e 3c3d 6i7h 8d8e 2e2d 2c2d 2h2d 8e8f 8g8f 8b8f 2d3d 2b3c 5i5h 5a5b 3g3f 8f7f 8h7g 7f7d 3d7d 7c7d P*2h 7a7b P*8b 8a7c 8b8a+ 7b8a R*8c R*8b 8c8b+ 8a8b P*8c 8b8c 7g3c+ 2a3c R*8a 8c7b 8a9a+ P*8a 9a9b 5b4a B*6f B*4d 6f4d 4c4d B*3d 3c4e 3d6a+ 7b6a 8i7g R*8i 4g4f B*8h L*3e P*3c 7i8h 4e5g+ 5h5g 8i4i+ 9b8a 4i5i N*5h B*7e B*6f 7e6f 5g6f B*7b 8a8d 5i5h 8d7d G*5e 6f7e 5h7h B*2e 7h8h G*5a 4a5a P*5b 6a5b 2e5b+ 5a5b S*4a 5b4a 7d4d N*4c 4d4c 3b4c 1g1f B*6d 7e7f R*7e",
+    "categories": [
+      "ending",
+      "check",
+      "hands",
+      "promoted",
+      "material_imbalance",
+      "no_legal_moves"
+    ]
+  },
+  {
+    "id": "fixture-0",
+    "ply": 100,
+    "sfen": "4k4/9/9/9/9/9/9/9/4K4 b R2G2S2N2L9Prb2g2s2n2l9p 101",
+    "command": "position sfen 4k4/9/9/9/9/9/9/9/4K4 b R2G2S2N2L9Prb2g2s2n2l9p 101",
+    "categories": [
+      "ending",
+      "hands",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "fixture-1",
+    "ply": 101,
+    "sfen": "4k4/9/4R4/9/9/9/9/9/4K4 w G2Prb3g4s4n4l16p 102",
+    "command": "position sfen 4k4/9/4R4/9/9/9/9/9/4K4 w G2Prb3g4s4n4l16p 102",
+    "categories": [
+      "ending",
+      "check",
+      "hands",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "fixture-2",
+    "ply": 102,
+    "sfen": "4k4/9/9/3+B5/9/5+r3/9/9/4K4 b R3Pbg4s4n4l15p 121",
+    "command": "position sfen 4k4/9/9/3+B5/9/5+r3/9/9/4K4 b R3Pbg4s4n4l15p 121",
+    "categories": [
+      "ending",
+      "hands",
+      "promoted",
+      "material_imbalance"
+    ]
+  },
+  {
+    "id": "fixture-3",
+    "ply": 103,
+    "sfen": "4k4/9/9/9/4+p4/9/9/9/4K4 b R2B4G4S4N4L17Pr 151",
+    "command": "position sfen 4k4/9/9/9/4+p4/9/9/9/4K4 b R2B4G4S4N4L17Pr 151",
+    "categories": [
+      "ending",
+      "hands",
+      "promoted",
+      "material_imbalance"
+    ]
+  }
+]

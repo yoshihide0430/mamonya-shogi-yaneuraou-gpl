@@ -79,11 +79,10 @@ LOCAL_CPPFLAGS := \
   -DUSE_PTHREADS \
   -DIS_64BIT \
   -DUSE_NEON=8 \
-  -DUSE_NEON_DOTPROD \
-  -march=armv8.2-a+dotprod \
+  -march=armv8-a \
   -DHASH_KEY_BITS=128 \
   -DTT_CLUSTER_SIZE=4 \
-  -DTARGET_CPU=\"ARMV8_DOTPROD\" \
+  -DTARGET_CPU=\"ARMV8_NEON\" \
   -DENGINE_NAME_FROM_MAKEFILE=YaneuraOu_MamoShogi \
   -D__STDINT_MACROS \
   -D__STDC_LIMIT_MACROS \
@@ -91,6 +90,8 @@ LOCAL_CPPFLAGS := \
   -Wno-unused-variable \
   -Wno-unused-function
 
-LOCAL_LDFLAGS := -fPIE -pie -flto -pthread
+# Keep the validated release identifier stable across debug-path differences.
+# SHA-256 remains the content identity checked before installation.
+LOCAL_LDFLAGS := -fPIE -pie -flto -pthread -Wl,--build-id=0x02d2e2208ac37ea5e76d465da51afcd578074ecf
 
 include $(BUILD_EXECUTABLE)
