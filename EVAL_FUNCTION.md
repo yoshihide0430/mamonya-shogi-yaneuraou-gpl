@@ -1,3 +1,15 @@
+# 搭載評価関数（2026-11-02）
+
+アプリが読む評価関数は、つようら王11micro。アーキテクチャは `SFNN_ka2_2048_8_64_progress8`。`nn.bin` と `progress.bin` を同じ EvalDir に置く。`FV_SCALE` は 24。作者は nn.bin と progress.bin を MIT License としている。Android ビルドは `YANEURAOU_ENGINE_NNUE` に加え `SFNNwoPSQT` と `NNUE_ARCHITECTURE_HEADER=architectures/SFNN_ka2_2048_8_64_progress8.h`。
+
+| ファイル | サイズ | SHA-256 |
+| --- | --- | --- |
+| nn.bin | 3864610 | `7f9545dbf73b87acf312146daabf59c4f17d0845c87d587fa19caed51707dddb` |
+| progress.bin | 1003104 | `a2d18f0564639c945b5d6469e9b437cd64a526ad4fbcef02ab1d8f547d08e5f1` |
+| libyaneuraou.so | 1169968 | `7fde5bfe072e2f64de2109e275c641a80616de7540b200418d053a17915c5031` |
+
+以下は、それ以前に搭載していた Háo の照合記録。
+
 # 搭載評価関数の配布物照合（2026-10-03）
 
 [作者の公式リリース](https://github.com/nodchip/tanuki-/releases/tag/tanuki-.halfkp_256x2-32-32.2023-05-08)のアーカイブを取得し、実ファイルを確認した。

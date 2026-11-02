@@ -84,5 +84,5 @@ $Hash = (Get-FileHash $Final -Algorithm SHA256).Hash.ToLowerInvariant()
 $Hash | Set-Content (Join-Path $Root "out\libyaneuraou.sha256") -Encoding ascii
 Write-Host "Built: $Final"
 Write-Host "SHA-256: $Hash"
-Write-Host "Validated production SHA-256: 28647dbf16571809dc4713950bd121b87c28b33436516ee2976a14f13d5dc6e7"
+Write-Host "Previous HalfKP production SHA-256: 28647dbf16571809dc4713950bd121b87c28b33436516ee2976a14f13d5dc6e7"
 Write-Host "The official app copies this file to android/app/src/main/jniLibs/arm64-v8a/libyaneuraou.so"
